@@ -1,2 +1,4 @@
 こんにちは!
-hello!
+hello HELLO
+
+今日はちょっと寒い！
